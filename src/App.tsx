@@ -167,7 +167,7 @@ function App() {
             }`}>
               <h1 className="text-6xl md:text-8xl lg:text-9xl font-black mb-4 leading-none relative">
                 <span className="inline-block animate-gradient-x bg-gradient-to-r from-purple-400 via-pink-400 via-cyan-400 to-purple-400 bg-clip-text text-transparent bg-300% font-extrabold">
-                  Data
+                  Data & Business
                 </span>
                 <div className="absolute -inset-4 bg-gradient-to-r from-purple-600/20 to-pink-600/20 blur-2xl opacity-50 animate-pulse" />
               </h1>
